@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishrule
 - 👀 I’m interested in ... learning some coding languages 
-- 🌱 I’m currently learning ... about cloud 
+- 🌱 I’m currently learning ... about CS50
 - 💞️ I’m looking to collaborate on ... ??
 - 📫 How to reach me ... vishwa.patne@mail.utoronto.ca
 
